@@ -1,4 +1,4 @@
-# Girilen-sayilarla-bir-takim-islemler
+# Girilen Sayilarla Bir Takim İslemler
 ###### 0 yazılana kadar girilen sayı değerlerine göre bir takım işlemler yapılmasını sağlıyor:
 
 - `Pozitif ve negatif sayıların sayısı`
